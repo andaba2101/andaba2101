@@ -1,6 +1,3 @@
-# andaba.github.io
-Portafolio de Andres Bahamon: Data Analyst y Economista 
-
 <div align="center">
 
 # Andrés David Bahamón Sáenz
