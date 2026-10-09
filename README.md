@@ -37,44 +37,55 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 ### Programación, bases de datos y análisis
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,r,postgres,mysql,sklearn&amp;perline=5&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,r,postgres,mysql,sklearn&amp;perline=5&amp;theme=light">
-  <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,sklearn&amp;perline=5&amp;theme=dark" alt="Python, R, PostgreSQL, MySQL y scikit-learn">
-</picture>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="70" alt="Python">
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="70" alt="R">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="70" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="70" alt="Scikit-learn">
 </p>
 
-<p align="center">Python · R · SQL con PostgreSQL y MySQL · scikit-learn</p>
+<p align="center">
+  <sub>Python</sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub>R</sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub>PostgreSQL</sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub>MySQL</sub>
+  &nbsp;&nbsp;&nbsp;
+  <sub>Scikit-learn</sub>
+</p>
 
 ### Bibliotecas y entornos de trabajo
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,scipy,jupyter,googlecolab&amp;perline=7&amp;titles=true&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,scipy,jupyter,googlecolab&amp;perline=7&amp;titles=true&amp;theme=light">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,scipy,jupyter,googlecolab&amp;perline=7&amp;titles=true&amp;theme=dark" alt="Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter y Google Colab">
-</picture>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark&titles=true" width="78" alt="Pandas">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark&titles=true" width="78" alt="NumPy">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark&titles=true" width="78" alt="Matplotlib">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark&titles=true" width="78" alt="Seaborn">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark&titles=true" width="78" alt="SciPy">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark&titles=true" width="78" alt="Jupyter">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark&titles=true" width="78" alt="Google Colab">
 </p>
-
-<p align="center">Pandas · NumPy · Matplotlib · Seaborn · SciPy · Jupyter · Google Colab</p>
 
 ### Business Intelligence y hojas de cálculo
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,tableau&amp;perline=3&amp;titles=true&amp;theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,tableau&amp;perline=3&amp;titles=true&amp;theme=light">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi,excel,tableau&amp;perline=3&amp;titles=true&amp;theme=dark" alt="Power BI, Excel y Tableau">
-</picture>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark&titles=true" width="82" alt="Power BI">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark&titles=true" width="82" alt="Microsoft Excel">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark&titles=true" width="82" alt="Tableau">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" alt="GitHub">
 </p>
 
-<p align="center">Power BI · Excel · Tableau</p>
+### Herramientas complementarias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DAX-252B36?style=flat-square" alt="DAX">
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square" alt="Google Sheets">
-  <img src="https://img.shields.io/badge/Statsmodels.stats.proportion-0EA5E9?style=flat-square" alt="Statsmodels: pruebas de proporciones">
-  <img src="https://img.shields.io/badge/Stata-1A5F91?style=flat-square" alt="Stata">
+  <img src="https://img.shields.io/badge/DAX-252B36?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/Statsmodels-0EA5E9?style=for-the-badge" alt="Statsmodels">
+  <img src="https://img.shields.io/badge/SciPy.stats-8CAAE6?style=for-the-badge" alt="SciPy Stats">
+  <img src="https://img.shields.io/badge/Statsmodels.stats.proportion-6366F1?style=for-the-badge" alt="Statsmodels Proportion Tests">
+  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge" alt="Stata">
 </p>
 
 ## Tres proyectos para empezar
