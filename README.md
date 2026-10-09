@@ -37,22 +37,26 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 ### Programación, bases de datos y análisis
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="70" alt="Python">
-  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="70" alt="R">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="70" alt="PostgreSQL">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70" alt="MySQL">
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="70" alt="Scikit-learn">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="72" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=r&theme=dark" width="72" alt="R">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="72" alt="PostgreSQL">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="72" alt="MySQL">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="72" alt="Scikit-learn">
 </p>
 
 <p align="center">
   <sub>Python</sub>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>R</sub>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>PostgreSQL</sub>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <sub>MySQL</sub>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>Scikit-learn</sub>
 </p>
 
@@ -60,30 +64,37 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark&titles=true" width="78" alt="Pandas">
+  &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark&titles=true" width="78" alt="NumPy">
+  &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark&titles=true" width="78" alt="Matplotlib">
+  &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark&titles=true" width="78" alt="Seaborn">
+  &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark&titles=true" width="78" alt="SciPy">
+  &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark&titles=true" width="78" alt="Jupyter">
+  &nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark&titles=true" width="78" alt="Google Colab">
 </p>
 
 ### Business Intelligence y hojas de cálculo
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark&titles=true" width="82" alt="Power BI">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark&titles=true" width="82" alt="Microsoft Excel">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark&titles=true" width="82" alt="Tableau">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="70" alt="GitHub">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark&titles=true" width="86" alt="Power BI">
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark&titles=true" width="86" alt="Microsoft Excel">
+  &nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark&titles=true" width="86" alt="Tableau">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="72" alt="GitHub">
 </p>
-
-### Herramientas complementarias
 
 <p align="center">
   <img src="https://img.shields.io/badge/DAX-252B36?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
   <img src="https://img.shields.io/badge/Statsmodels-0EA5E9?style=for-the-badge" alt="Statsmodels">
-  <img src="https://img.shields.io/badge/SciPy.stats-8CAAE6?style=for-the-badge" alt="SciPy Stats">
+  <img src="https://img.shields.io/badge/Scipy.stats-8CAAE6?style=for-the-badge" alt="SciPy Stats">
   <img src="https://img.shields.io/badge/Statsmodels.stats.proportion-6366F1?style=for-the-badge" alt="Statsmodels Proportion Tests">
   <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge" alt="Stata">
 </p>
