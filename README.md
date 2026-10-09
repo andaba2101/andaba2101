@@ -45,127 +45,133 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 ### Programación, bases de datos y análisis
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=py&theme=dark" width="52" alt="Python"><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=r&theme=dark" width="52" alt="R"><br>
-      <sub><b>R</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="52" alt="PostgreSQL"><br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" alt="MySQL"><br>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="Scikit-learn"><br>
-      <sub><b>scikit-learn</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py&theme=dark" width="56" alt="Python">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=r&theme=dark" width="56" alt="R">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="56" alt="PostgreSQL">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="56" alt="MySQL">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="56" alt="Scikit-learn">
+
+<br><br>
+
+<sub><b>Python</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>R</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>PostgreSQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>MySQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>scikit-learn</b></sub>
+
+</div>
 
 ### Bibliotecas y entornos de trabajo
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" width="52" alt="Pandas"><br>
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" width="52" alt="NumPy"><br>
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" width="52" alt="Matplotlib"><br>
-      <sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" width="52" alt="Seaborn"><br>
-      <sub><b>Seaborn</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark" width="52" alt="SciPy"><br>
-      <sub><b>SciPy</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" width="52" alt="Jupyter"><br>
-      <sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="115">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" width="52" alt="Google Colab"><br>
-      <sub><b>Google<br>Colab</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" width="52" alt="Pandas">
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" width="52" alt="NumPy">
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" width="52" alt="Matplotlib">
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn&theme=dark" width="52" alt="Seaborn">
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scipy&theme=dark" width="52" alt="SciPy">
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter&theme=dark" width="52" alt="Jupyter">
+&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab&theme=dark" width="52" alt="Google Colab">
+
+<br><br>
+
+<sub><b>Pandas</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>NumPy</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Matplotlib</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Seaborn</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>SciPy</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Jupyter</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Google Colab</b></sub>
+
+</div>
 
 ### Business Intelligence y hojas de cálculo
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center" width="125">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" width="52" alt="Power BI"><br>
-      <sub><b>Power BI</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark" width="52" alt="Microsoft Excel"><br>
-      <sub><b>Microsoft<br>Excel</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" width="52" alt="Tableau"><br>
-      <sub><b>Tableau</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub"><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="34" alt="DAX"><br>
-      <sub><b>DAX</b></sub>
-    </td>
-    <td align="center" width="125">
-      <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" height="34" alt="Google Sheets"><br>
-      <sub><b>Google<br>Sheets</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" width="58" alt="Power BI">
+&nbsp;&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel&theme=dark" width="58" alt="Microsoft Excel">
+&nbsp;&nbsp;&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tableau&theme=dark" width="58" alt="Tableau">
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="58" alt="GitHub">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="32" alt="DAX">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat-square&logo=googlesheets&logoColor=white" height="32" alt="Google Sheets">
+
+<br><br>
+
+<sub><b>Power BI</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Microsoft Excel</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Tableau</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>GitHub</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>DAX</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Google Sheets</b></sub>
+
+</div>
 
 ### Estadística y herramientas complementarias
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Statsmodels-0EA5E9?style=flat-square" height="34" alt="Statsmodels"><br>
-      📈<br>
-      <sub><b>Statsmodels</b></sub><br>
-      <sub>Modelos estadísticos</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/SciPy.stats-8CAAE6?style=flat-square" height="34" alt="SciPy Stats"><br>
-      🧪<br>
-      <sub><b>SciPy stats</b></sub><br>
-      <sub>Pruebas estadísticas</sub>
-    </td>
-    <td align="center" width="170">
-      <img src="https://img.shields.io/badge/Proportion%20Tests-6366F1?style=flat-square" height="34" alt="Pruebas de proporciones"><br>
-      ⚖️<br>
-      <sub><b>Statsmodels</b></sub><br>
-      <sub>Pruebas de proporciones</sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Stata-1A5F91?style=flat-square" height="34" alt="Stata"><br>
-      📊<br>
-      <sub><b>Stata</b></sub><br>
-      <sub>Econometría</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Statsmodels-0EA5E9?style=flat-square" height="32" alt="Statsmodels">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SciPy.stats-8CAAE6?style=flat-square" height="32" alt="SciPy Stats">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Proportion%20Tests-6366F1?style=flat-square" height="32" alt="Pruebas de proporciones">
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Stata-1A5F91?style=flat-square" height="32" alt="Stata">
+
+<br><br>
+
+<sub><b>Statsmodels</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>SciPy stats</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Pruebas de proporciones</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Stata</b></sub>
+
+<br><br>
+
+📈 <sub>Modelos estadísticos</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🧪 <sub>Pruebas y distribuciones</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+⚖️ <sub>Comparación de conversiones</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📊 <sub>Econometría</sub>
+
+</div>
 
 ## Tres proyectos para empezar
 
