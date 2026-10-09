@@ -45,7 +45,7 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 ### Programación, bases de datos y análisis
 
-<table align="center" border="0" cellspacing="0" cellpadding="10">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="115">
       <img src="https://skillicons.dev/icons?i=py&theme=dark" width="52" alt="Python"><br>
