@@ -1,5 +1,14 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/andaba2101/andaba2101/main/banner-andres-bahamon.jpg" alt="Andrés David Bahamón Sáenz | Economista y Data Analyst" width="100%">
+
+</div>
+
+<br>
+
+
+<div align="center">
+
 # Andrés David Bahamón Sáenz
 
 ### Economista · Data Analyst Junior · Business Intelligence
