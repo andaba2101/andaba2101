@@ -45,7 +45,7 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 ### Programación, bases de datos y análisis
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" width="115">
       <img src="https://skillicons.dev/icons?i=py&theme=dark" width="52" alt="Python"><br>
@@ -72,7 +72,7 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 ### Bibliotecas y entornos de trabajo
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" width="115">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" width="52" alt="Pandas"><br>
@@ -107,7 +107,7 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 ### Business Intelligence y hojas de cálculo
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center" width="125">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi&theme=dark" width="52" alt="Power BI"><br>
@@ -138,23 +138,31 @@ Preparo y valido datos, construyo indicadores y dashboards, y explico hallazgos 
 
 ### Estadística y herramientas complementarias
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="145">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Statsmodels-0EA5E9?style=flat-square" height="34" alt="Statsmodels"><br>
-      <sub><b>Statsmodels</b></sub>
+      📈<br>
+      <sub><b>Statsmodels</b></sub><br>
+      <sub>Modelos estadísticos</sub>
     </td>
-    <td align="center" width="145">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/SciPy.stats-8CAAE6?style=flat-square" height="34" alt="SciPy Stats"><br>
-      <sub><b>SciPy<br>stats</b></sub>
+      🧪<br>
+      <sub><b>SciPy stats</b></sub><br>
+      <sub>Pruebas estadísticas</sub>
     </td>
-    <td align="center" width="155">
-      <img src="https://img.shields.io/badge/Statsmodels.stats.proportion-6366F1?style=flat-square" height="34" alt="Statsmodels Proportion"><br>
-      <sub><b>Statsmodels<br>proportion</b></sub>
+    <td align="center" width="170">
+      <img src="https://img.shields.io/badge/Proportion%20Tests-6366F1?style=flat-square" height="34" alt="Pruebas de proporciones"><br>
+      ⚖️<br>
+      <sub><b>Statsmodels</b></sub><br>
+      <sub>Pruebas de proporciones</sub>
     </td>
-    <td align="center" width="145">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Stata-1A5F91?style=flat-square" height="34" alt="Stata"><br>
-      <sub><b>Stata</b></sub>
+      📊<br>
+      <sub><b>Stata</b></sub><br>
+      <sub>Econometría</sub>
     </td>
   </tr>
 </table>
